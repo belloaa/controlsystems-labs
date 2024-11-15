@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.slxc
+*.r20*
+slprj/
+*.slprj/
+
+# Build files
+*.rtw
+*.mk
+*.rxw64
+*.tmw
+*.tlc
+*.cache
+
+# Data files
+*.mat
+!*_initial.mat
+
+# OS specific
+.DS_Store
+Thumbs.db
